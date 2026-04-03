@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix-Content-Strategy-Analysis
 
 This project explores and analyzes the Netflix dataset to gain insights into the content available on the platform. The analysis covers various aspects such as content type distribution, popular genres, top directors, and release trends over time.
 
